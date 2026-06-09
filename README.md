@@ -26,3 +26,13 @@ Whether you're making your first PR or contributing to a new project, this repos
 ### Reference Materials
 - Contribution Templates
 - Example Contribution Flows
+
+## What You'll Find
+- Contribution checklists for common OSS workflows
+- Playbooks that explain how modern repositories operate
+- Guidance for identifying and improving documentation gaps
+- Decision guides for choosing projects and contributions
+- Pull Request preparation resources
+- CI/CD and pre-commit troubleshooting references
+- Reusable templates and examples
+- Beginner-friendly explanations of common OSS concepts
