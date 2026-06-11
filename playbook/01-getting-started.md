@@ -41,3 +41,15 @@ Most open source contributions follow a similar process:
 7. Get your contribution merged
 
 You do not need to master every step immediately. Most contributors learn by doing.
+
+## Start Small
+One of the biggest mistakes beginners make is choosing an issue that is too large.
+
+Instead, look for:
+- Documentation improvements
+- Beginner-friendly issues
+- Example updates
+- Test improvements
+
+## Remember
+Every experienced contributor was once a beginner. The goal of your first contribution is to learn the workflow, build confidence, and make your first meaningful contribution.
