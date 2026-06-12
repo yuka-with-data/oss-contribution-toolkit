@@ -45,3 +45,9 @@ Open source projects often spread contribution guidance across `README` files, `
 This repository brings together common patterns, workflows, and lessons learned from real-world contributions into a practical toolkit. Its goal is to help contributors spend less time figuring out how a project works and more time making meaningful contributions.
 
 Because open source practices continue to evolve, this repository is intended to be updated regularly to reflect current workflows and best practices, helping make open source contribution more approachable.
+
+## Recommended Resources
+The OSS Contribution Toolkit is designed to be self-contained and updated as the open source ecosystem evolves, but these resources are excellent references for learning the basic of the open source and contribution workflows.
+- [Open Source Guides](https://opensource.guide/)
+- [GitHub Doc](https://docs.github.com/en)
+- [First Contributions](https://firstcontributions.github.io/)
