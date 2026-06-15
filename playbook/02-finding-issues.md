@@ -14,3 +14,20 @@ Avoid starting with:
 - Large feature requests
 - Unclear or vague issues
 - Highly technical refactors (unless guided)
+
+## Where to Find Issues
+You can discover beginner-friendly issues in several places:
+- GitHub Issue tab (use filters like `good-first-issue`)
+- GitHub Explore
+- [Good First Issue aggregators](https://goodfirstissue.dev)
+
+You can also contribute to projects you already use. This is often the easiest starting point.
+
+## How To Evaluate an Issue
+Before choosing an issue, quickly check:
+- Is the problem clearly described?
+- Are there steps to reproduce or expected behavior?
+- Has someone else already commented or started working?
+- Is the project actively maintained (recent commits, issue replies, PR activity)?
+
+If anything feels unclear, check the project's communication guidelines first. Some projects prefer GitHub issues only, while others use social platforms or external channels for discussion.
