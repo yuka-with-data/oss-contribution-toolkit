@@ -41,3 +41,23 @@ When your changes are ready:
 4. Reference the related issue when applicable
 
 A clear explanation helps reviewers understand your contribution.
+
+## Respond to Feedback
+Reviews are a normal part of open source.
+
+You may receive:
+- Questions
+- Suggestions
+- Requested changes
+
+Treat feedback as part of the learning process. Even experienced contributors regularly update their PRs after review.
+
+After the Merge
+Once your contribution is merged:
+- Celebrate your win! and learning!
+- Thank the maintainers when appropriate
+- Look for your next contribution
+
+Your first contribution does not need to be perfect.
+
+The goal is to learn the workflow and build confidence through real participation.
