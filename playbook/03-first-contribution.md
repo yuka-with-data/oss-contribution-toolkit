@@ -20,3 +20,24 @@ A simple message such as:
 lets maintainers and other contributors know that you are planning to work on it and can help avoid duplicate efforts.
 
 Always follow the project's contribution guidelines.
+
+## Make the Change
+Keep your first contribution small and focused.
+
+Good examples include:
+- Fixing documentation
+- Correcting typos
+- Updating examples
+- Fixing a small bug
+- Improving error messages
+
+Avoid combining multiple unrelated changes into a single contribution.
+
+## Submit a Pull Request
+When your changes are ready:
+1. Push your branch
+2. Open a Pull Request (PR)
+3. Clearly describe what changed
+4. Reference the related issue when applicable
+
+A clear explanation helps reviewers understand your contribution.
