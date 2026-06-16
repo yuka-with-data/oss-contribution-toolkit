@@ -61,3 +61,6 @@ Once your contribution is merged:
 Your first contribution does not need to be perfect.
 
 The goal is to learn the workflow and build confidence through real participation.
+
+## Learn More
+If you need a deeper walkthrough of Git, GitHub, branching or pull requests, see the `resources` directory of this toolkit.
