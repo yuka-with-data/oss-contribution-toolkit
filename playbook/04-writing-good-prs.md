@@ -49,3 +49,15 @@ Before submitting:
 - Verify that automated checks (CI), such as builds, linting, or test workflows, complete successfully if the project uses them
 
 Small, clean PRs are easier to review than large, complex ones.
+
+## Be Open to Feedback
+Review comments are a normal part of open source collaboration.
+
+Feedback is focused on improving the contribution, not criticizing the contributor.
+
+Respond professionally, ask questions when needed, and update your PR accordingly.
+
+## Remember
+A good pull request is clear, focused, and easy to review.
+
+The goal is not to submit the largest change. The goal is to help maintainers quickly understand and evaluate your contribution.
