@@ -38,3 +38,14 @@ Keep the explanation concise and easy to follow.
 In your PR addresses an existing issue, reference it in the description.
 
 This helps maintainers understand the context and track project progress.
+
+## Make Reviews Easier
+Before submitting:
+- Review your own changes
+- Remove unnecessary files or edits
+- Make sure you are not committing files that do not belong in the PR
+- Check project guidelines
+- Ensure any required tests pass
+- Verify that automated checks (CI), such as builds, linting, or test workflows, complete successfully if the project uses them
+
+Small, clean PRs are easier to review than large, complex ones.
