@@ -23,3 +23,18 @@ Example:
 - "Add validation for empty user input"
 
 Reviewers should understand the purpose of the PR at a glance.
+
+## Explain What Changed
+If the repository provides a pull request template, follow it when writing your PR description. Templates are designed to give maintainers the information they need and help keep contributions consistent.
+
+In general, your **PR description**, should answer a few simple questions:
+- What changed?
+- Why was the change needed?
+- How was it tested?
+
+Keep the explanation concise and easy to follow.
+
+## Reference Related Issues
+In your PR addresses an existing issue, reference it in the description.
+
+This helps maintainers understand the context and track project progress.
