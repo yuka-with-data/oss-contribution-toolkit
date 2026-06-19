@@ -36,3 +36,15 @@ As you gain experience in open source, you can participate in reviews by:
 - Providing constructive feedback
 
 Reviewing other contributors is one of the best way to learn how projects are built and maintained.
+
+## Professional Communication
+Good reviews focus on improving the project.
+
+Whether you are giving or receiving feedback, be respectful, be specific, assume good intentions, and focus your comments on your contribution rather than making judgements about the contributors involved.
+
+Professional communication helps create a healthy and welcoming community.
+
+## Remember
+A review is not an obstacle between your pull request and a merge.
+
+It is an opportunity to improve your contribution, learn from others, and become a more effective collaborator in open source.
