@@ -9,7 +9,7 @@ Open source contribution is not static.
 
 Workflows, tooling, automation, and contributor expectations continue to evolve, especially as AI-assisted development becomes more common. Practices that are common today may look very different a few years from now.
 
-Because of this, one of the most valuable contributions to this repository is **helping keep its content accurate, relevant, and reflective of real-world open source practices**.
+Because of this, one of the most valuable contributions to this repository is **helping keep its content updated, accurate, relevant, and reflective of real-world open source practices**.
 
 ## Ways to Contribute
 Contributions may include:
