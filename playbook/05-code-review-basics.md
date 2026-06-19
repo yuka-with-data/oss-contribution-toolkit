@@ -25,3 +25,14 @@ To update your pull request:
 The pull request will automatically update to include the new commits.
 
 Requested changes are not a sign of failure. Even experienced contributors regularly revise their work before it is merged.
+
+## Reviewing Other Contributors
+Contributing is not limited to writing code.
+
+As you gain experience in open source, you can participate in reviews by:
+- Testing proposed changes
+- Reviewing documentation updates
+- Ask questions
+- Providing constructive feedback
+
+Reviewing other contributors is one of the best way to learn how projects are built and maintained.
