@@ -28,14 +28,13 @@ Whether you're making your first PR or contributing to a new project, this repos
 - Example Contribution Flows
 
 ## What You'll Find
-- Contribution checklists for common OSS workflows
-- Playbooks that explain how modern repositories operate
-- Guidance for identifying and improving documentation gaps
-- Decision guides for choosing projects and contributions
-- Pull Request preparation resources
-- CI/CD and pre-commit troubleshooting references
-- Reusable templates and examples
-- Beginner-friendly explanations of common OSS concepts
+- Practical playbooks that explain how modern repositories operate
+- Guidance for finding issues, writing PRs, and understanding code review
+- AI-assisted contribution practices for modern OSS workflows
+- Contribution checklists and reusable templates (WIP)
+- Git and GitHub learning resources (WIP)
+- CI/CD and pre-commit troubleshooting reference (WIP)
+- Toolkit utilities and examples for real-world contribution (WIP)
 
 ## Why This Repository Exists
 When I first started exploring open source, I often felt intimidated by the contribution process. Every project seemed to have its own workflows, expectations, and requirements, and it wasn't always clear where to begin.
