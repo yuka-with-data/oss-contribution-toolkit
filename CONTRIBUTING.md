@@ -26,6 +26,7 @@ If you have an idea for an improvement,
 1. Open an issue to discuss it
 2. Once the issue has been discussed and approved, submit a pull request with the proposed changes
 
+> [!IMPORTANT]
 > Issues that do not include sufficient context or explanation may be closed or asked for additional information before review. PRs without sufficient description or without a linked issue (when one is required for the change) may be closed or asked for additional information before review.
 
 ## Code of Conduct
