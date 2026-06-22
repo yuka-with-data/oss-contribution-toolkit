@@ -3,22 +3,22 @@ This playbook provides a practical introduction to contributing to open source p
 The guides are designed to be concise, beginner-friendly, and focused on real-world contribution workflows.
 
 ## Contents
-1. Getting Started
+1. **Getting Started**:
 Learn the fundamentals of open source contributions and prepare your GitHub presence.
 
-2. Finding Issues
+2. **Finding Issues**:
 Discover beginner-friendly issues and evaluate potential projects.
 
-3. First Contribution
+3. **First Contribution**:
 Understand the typical contribution workflow from issue selection to merge.
 
-4. Writing Good Pull Requests
+4. **Writing Good Pull Requests**:
 Learn how to create clear, focused, and reviewable pull requests.
 
-5. Code Review Basics
+5. **Code Review Basics**:
 Understand how reviews work and how to participate effectively.
 
-6. AI-Assisted Contributions
+6. **AI-Assisted Contributions**:
 Learn how to use AI responsibly throughout the contribution process.
 
 > [!TIP]
