@@ -28,3 +28,19 @@ Open source is collaborative by default.
 **Issues** are used to align on intent, **Pull requests** are used to refine work, and **feedback** is part of the normal process.
 
 You are NOT expected to get everything right on the first try.
+
+## AI Emerges, Principles Stay
+Tools like AI assistants and automated review systems are now common, but they do not change the fundamentals.
+
+What still matters are:
+- Understanding what you change
+- Making intent clear
+- Validating your work
+- Communicating with others
+
+## Learning Through Contribution
+Contributing is also a learning process
+
+It is completely normal to start small, ask questions, and improve through iteration.
+
+Open source is not about being perfect. It is about participating and improving over time.
