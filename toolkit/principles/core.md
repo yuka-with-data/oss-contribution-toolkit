@@ -12,3 +12,19 @@ Open source is built on a few simple ideas:
 - Projects improve through shared effort over time
 
 Great contributions are defined more by clarity than complexity.
+
+## What Good Contributions Look Like
+Most maintainers value contributions that are:
+- Small and focused on one change
+- Easy to understand and review
+- Clearly explained
+- Aligned with the project direction
+
+This applies to code, documentation, and bug reports.
+
+## Collaboration First
+Open source is collaborative by default.
+
+**Issues** are used to align on intent, **Pull requests** are used to refine work, and **feedback** is part of the normal process.
+
+You are NOT expected to get everything right on the first try.
