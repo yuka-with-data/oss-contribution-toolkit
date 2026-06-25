@@ -47,3 +47,10 @@ This may include:
 - Confirming CI checks pass upon submission
 
 Verification helps reviewers focus on the contribution itself rather than avoidable issues.
+
+## Contribution is a Continous Process
+A merged pull request is rarely the end of the journey.
+
+Contributors often continue by reviewing feedback, helping other contributors, improving documentation, reporting issues, or submitting future improvements.
+
+Open source projects grow through consistent participation rather than individual contributions.
