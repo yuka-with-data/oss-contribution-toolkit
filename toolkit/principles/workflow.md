@@ -29,3 +29,21 @@ When possible:
 - Avoid unrelated modifications
 
 A series of small improvement is often more effective than a single large contribution.
+
+## Review if Part of Development
+Submitting a pull request is not the end of the process.
+
+Reviews help identify issues, improve clarity, and ensure changes fit the project's direction. Feedback and revisions are a normal part of contribution, even for experienced contributors.
+
+Good contributors expect iteration and use reviews as an opportunity to improve their work.
+
+## Validate Before Submitting
+Before submitting a pull request, verify that your contribution works as intended.
+
+This may include:
+- Running tests
+- Reviewing your changes
+- Checking project guidelines
+- Confirming CI checks pass upon submission
+
+Verification helps reviewers focus on the contribution itself rather than avoidable issues.
