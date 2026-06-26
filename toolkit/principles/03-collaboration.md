@@ -19,3 +19,10 @@ Every project has its own goals, priorities, and constraints.
 **A technically correct solution is NOT ALWAYS the right solution for a project.** Before proposing changes, take time to understand how the project operates and what maintainers are trying to achieve.
 
 Successful contributions align with the project's direction, not just the contributor's preferences.
+
+## Feedback is Collaboration
+Feedback is normal part of open source development.
+
+Review comments, questions, and suggestions are intended to improve the contribution and the project. Most discussions are more productive when contributors focus on understanding the feedback before responding.
+
+Disagreement is sometimes unavoidable, but it should remain respectful and focused on the technical discussion.
