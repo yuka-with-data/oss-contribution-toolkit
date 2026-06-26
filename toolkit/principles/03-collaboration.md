@@ -43,3 +43,8 @@ Projects depend on many different forms of participation.
 Most contributors begin with a single issue or pull request.
 
 Over time, consistent participation builds trust, familiarity, and deeper involvement within a project. Long-term contributors often become valuable community members regardless of the size of their individual contributions.
+
+## Remember
+The most effective contributors are not always the ones who write the most code.
+
+They are often the people who communicate clearly, work well with others, and help move the project forward.
