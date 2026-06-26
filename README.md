@@ -52,5 +52,5 @@ The OSS Contribution Toolkit is designed to be self-contained and updated as the
 - [First Contributions](https://firstcontributions.github.io/)
 
 > [!NOTE]
-> Transparency Note: 
+> **Transparency Note:**
 > AI tools were used to support drafting and structuring documentation in this repository. All content has been reviewed and validated using official documentation, open source best practices, public discussions, and hands-on contribution experience.
