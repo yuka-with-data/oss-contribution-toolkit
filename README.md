@@ -50,3 +50,7 @@ The OSS Contribution Toolkit is designed to be self-contained and updated as the
 - [Open Source Guides](https://opensource.guide/)
 - [GitHub Doc](https://docs.github.com/en)
 - [First Contributions](https://firstcontributions.github.io/)
+
+> [!NOTE]
+> Transparency Note: 
+> AI tools were used to support drafting and structuring documentation in this repository. All content has been reviewed and validated using official documentation, open source best practices, public discussions, and hands-on contribution experience.
