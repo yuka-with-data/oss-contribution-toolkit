@@ -26,3 +26,20 @@ Feedback is normal part of open source development.
 Review comments, questions, and suggestions are intended to improve the contribution and the project. Most discussions are more productive when contributors focus on understanding the feedback before responding.
 
 Disagreement is sometimes unavoidable, but it should remain respectful and focused on the technical discussion.
+
+## Contribute Beyond Code
+Open source contributions are not limited to programming.
+
+Valuable contributions may include:
+- Documentation improvements
+- Testing and validating
+- Bug reports
+- Reviewing pull requests
+- Answering community questions
+
+Projects depend on many different forms of participation.
+
+## Build Relationships Over Time
+Most contributors begin with a single issue or pull request.
+
+Over time, consistent participation builds trust, familiarity, and deeper involvement within a project. Long-term contributors often become valuable community members regardless of the size of their individual contributions.
