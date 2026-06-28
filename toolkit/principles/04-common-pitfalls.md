@@ -31,3 +31,20 @@ Failing to follow them can result in avoidable review delays, such as:
 - Missing tests or documentation updates
 
 Reading existing code and guidelines helps prevent this.
+
+## 4. Over-Relying on Tools
+Modern tools, including AI assistants, can speed up development, but they can also introduce issues if used without through careful review.
+
+Typical risks include:
+- Using incorrect or hallucinated APIs
+- Submitting untested code
+- Missing subtle project-specific rules
+
+Tools should support understanding, not replace it.
+
+## 5. Treating Review as a Final Step
+A pull request is not finished when it is opened (submitted). 
+
+Some contributors assume the work is complete once submitted, but most pull requests go through review feedback and CI checks before they are merged.
+
+Successful contributions usually involve iteration.
