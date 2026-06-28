@@ -48,3 +48,20 @@ A pull request is not finished when it is opened (submitted).
 Some contributors assume the work is complete once submitted, but most pull requests go through review feedback and CI checks before they are merged.
 
 Successful contributions usually involve iteration.
+
+## 6. Not Asking Questions Early
+Many issues can be avoided by asking questions sooner.
+
+If something is unclear:
+- Ask in the issue
+- Clarify assumptions
+- Confirm expected behavior
+
+Early communication reduces rework later.
+
+## 7. Forgetting the Human Side of OSS
+Open source is collaborative work between people.
+
+Delays, feedback, and differeing opinions are **normal**.
+
+Most problems are resolved through respectful, ongoing communication that stays focused on the work rather than the individual.
