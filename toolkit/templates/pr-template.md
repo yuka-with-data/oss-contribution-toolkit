@@ -29,6 +29,7 @@ Add screenshots or logs if the change affects UI or output.
 
 ## Checklist
 - [ ] I have read the CONTRIBUTING guide and README
+- [ ] I have searched for existing pull requests related to this change.
 - [ ] I have tested my changes locally
 - [ ] I have linked a related issue (if applicable)
 - [ ] I have kept changes focused
