@@ -21,4 +21,4 @@ Use this checklist as a quick reference when reviewing a pull request.
 ## Feedback
 - [ ] My feedback is respectful and constructive.
 - [ ] I explained my suggestions when appropriate.
-- [ ] I acknowledged good work where appropriate.
+- [ ] I reviewed the latest changes after the requested updates (if applicable).
