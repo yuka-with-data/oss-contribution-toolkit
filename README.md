@@ -4,37 +4,26 @@
 Whether you're making your first PR or contributing to a new project, this repository provides checklists, decision guides, templates, and playbooks to help you understand repository workflows, avoid common mistakes, and contribute more effectively.
 
 ## Start Here
-### New to Open Source?
-- OSS Contribution Playbook
-- First Contribution Checklist
 
-### Evaluating a Project
-- Contribution Decision Guide
-- Repository Evaluation Checklist
-- Documentation Health Checklist
+### 📖 Playbook
 
-### Preparing a Contribution
-- Bug Fix Checklist
-- Feature Contribution Checklist
-- Documentation Improvement Checlist
-- Pull Request Submission Checklist
+Step-by-step guides for navigating the open source contribution process.
 
-### Troubleshooting
-- CI Failure Debugging Checlist
-- Pre-Commit Checklist
+### 🧰 Toolkit
 
-### Reference Materials
-- Contribution Templates
-- Example Contribution Flows
+Practical principles, templates, examples, and utilities for everyday contributions.
+
+### 📚 Resources
+
+Curated references for learning more about Git, GitHub, and open source.
 
 ## What You'll Find
-- Practical playbooks that explain how modern repositories operate
-- Guidance for finding issues, writing PRs, and understanding code review
-- AI-assisted contribution practices for modern OSS workflows
-- Contribution checklists and reusable templates (WIP)
-- Git and GitHub learning resources (WIP)
-- CI/CD and pre-commit troubleshooting reference (WIP)
-- Toolkit utilities and examples for real-world contribution (WIP)
+- Step-by-step playbooks for new and experienced contributors
+- Practical principles for open source collaboration
+- Reusable templates for pull requests, issues, and reviews
+- Lightweight examples of common contribution scenarios
+- Utilities and workflows for day-to-day contributions
+- Curated resources for continued learning
 
 ## Why This Repository Exists
 When I first started exploring open source, I often felt intimidated by the contribution process. Every project seemed to have its own workflows, expectations, and requirements, and it wasn't always clear where to begin.
