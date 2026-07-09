@@ -16,7 +16,7 @@ Contributions may include:
 - Updating outdated workflows or guidance
 - Improving existing playbooks and checklists
 - Adding examples and practical lessons learned
-- Correcting inaccuracies or unclear explanations
+- Correcting inaccuracies, unclear explanations, typos, or wording
 - Suggesting new topics that would help new contributors
 
 ## Getting Started
