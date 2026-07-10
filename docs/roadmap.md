@@ -11,4 +11,5 @@ This roadmap outlines potential areas of future development for the OSS Contribu
 Potential future additions include:
 - Best practices for AI-assisted open source contributions
 - Guidance for working with coding agents and emerging developer tools
+- Practical workflows for combining human judgment with AI assistance.
 - Automation utilities to support repository analysis and contribution workflows
