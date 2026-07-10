@@ -13,3 +13,5 @@ Potential future additions include:
 - Guidance for working with coding agents and emerging developer tools
 - Practical workflows for combining human judgment with AI assistance.
 - Automation utilities to support repository analysis and contribution workflows
+
+![OSS Contribution Toolkit Roadmap](assets/oss-roadmap.png)
