@@ -22,6 +22,9 @@ Contributions may include:
 ## Getting Started
 Contributors are encouraged to open an issue before submitting changes so that proposed updates can be discussed and aligned with the goals of the toolkit.
 
+> [!NOTE]
+> This repository uses GitHub's AI-powered issue summarization workflow to assist maintainers during issue triage.
+
 If you have an idea for an improvement,
 1. Open an issue to discuss it
 2. Once the issue has been discussed and approved, submit a pull request with the proposed changes
