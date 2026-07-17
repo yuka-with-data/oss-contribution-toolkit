@@ -1,20 +1,15 @@
 {
+  "globs": [
+    "**/*.md",
+
+    //Exclude AI prompt files - they are not traditional doc pages.
+    "!.github/prompts/**/*.md"
+  ],
+
   "config": {
     // Don't enforce maximum line length.
     "MD013": false,
     // Don't enforce ordered list item prefix
     "MD029": false
-  },
-
-  //Prompt files do not require a top-level H1 heading
-  "overrides": [
-    {
-      "files": [
-        ".github/prompts/**/*.md"
-      ],
-      "config": {
-        "MD041": false
-      }
-    }
-  ]
+  }
 }
