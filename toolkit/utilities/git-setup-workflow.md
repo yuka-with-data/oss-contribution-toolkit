@@ -53,7 +53,7 @@ git remote -v
 
 Expected output:
 
-```
+```bash
 origin  https://github.com/USERNAME/REPO_NAME.git (fetch)
 origin  https://github.com/USERNAME/REPO_NAME.git (push)
 ```
