@@ -17,7 +17,7 @@ Good examples:
 
 Avoid combining multiple unrelated changes into the same PR.
 
-# Write a Clear Title
+## Write a Clear Title
 
 Your **PR title** should briefly describe the change.
 
