@@ -1,6 +1,8 @@
 {
   "config": {
     // Don't enforce maximum line length.
-    "MD013": false
+    "MD013": false,
+    // Don't enforce ordered list item prefix
+    "MD029": false
   }
 }
