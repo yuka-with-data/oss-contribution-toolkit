@@ -182,32 +182,38 @@ Once your PR is merged:
 ```bash
 git checkout main
 ```
-1. Fetch latest changes from upstream (official repo):
+
+2. Fetch latest changes from upstream (official repo):
 
 ```bash
 git fetch upstream
 ```
-1. Rebase your local main onto upstream/main
+
+3. Rebase your local main onto upstream/main
 
 ```bash
 git merge upstream/main
 ```
-1. Push updated main to your fork (origin)
+
+4. Push updated main to your fork (origin)
 
 ```bash
 git push origin main
 ```
-1. Delete your feature branch locally
+
+5. Delete your feature branch locally
 
 ```bash
 git branch -d my-feature-branch
 ```
-1. Delete your feature branch on Github
+
+6. Delete your feature branch on Github
 
 ```bash
 git push origin --delete my-feature-branch
 ```
-1. Clean up stale remote references (optional)
+
+7. Clean up stale remote references (optional)
 
 ```bash
 git fetch --prume
