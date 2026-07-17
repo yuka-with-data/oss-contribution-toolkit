@@ -1,8 +1,8 @@
---- 
-name: Documentation 
-about: Report unclear, missing, or incorrect documentation 
-title: "[docs]: " 
-labels: documentation 
+---
+name: Documentation
+about: Report unclear, missing, or incorrect documentation
+title: "[docs]: "
+labels: documentation
 ---
 ## Summary
 
@@ -11,6 +11,7 @@ Describe the documentation issue.
 ## Location
 
 Where is the issue?
+
 - File or page:
 - Section (if applicable):
 
