@@ -1,7 +1,9 @@
 # Getting Started
+
 Open Source contribution can look intimidating at first. Many people assume they need to be experts, write large features, or have years of experience before contributing.
 
 In reality, many valuable contributions are small:
+
 - Fixing typos and broken links
 - Improving documentation
 - Reporting bugs
@@ -10,6 +12,7 @@ In reality, many valuable contributions are small:
 - Fixing small issues in code
 
 ## Before You Begin
+
 You do not need to know everything about a project.
 
 What helps most is:
@@ -20,6 +23,7 @@ What helps most is:
 - Patience when navigating unfamiliar codebases
 
 ## Create Your GitHub Presence
+
 You do not need an impressive profile before contributing.
 However, a few small improvements can make collaboration easier.
 
@@ -31,7 +35,9 @@ However, a few small improvements can make collaboration easier.
 Maintainers review contributions based on their quality. Focus on learning, contributing, and building a consistent record of activity over time.
 
 ## Learn The Basic Workflow
+
 Most open source contributions follow a similar process:
+
 1. Find an issue or improvement opportunity
 2. Fork the repository (if needed)
 3. Create a branch
@@ -43,13 +49,16 @@ Most open source contributions follow a similar process:
 You do not need to master every step immediately. Most contributors learn by doing.
 
 ## Start Small
+
 One of the biggest mistakes beginners make is choosing an issue that is too large.
 
 Instead, look for:
+
 - Documentation improvements
 - Beginner-friendly issues
 - Example updates
 - Test improvements
 
 ## Remember
+
 Every experienced contributor was once a beginner. The goal of your first contribution is to learn the workflow, build confidence, and make your first meaningful contribution.

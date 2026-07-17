@@ -15,6 +15,7 @@ Closes #(issue number)
 Describe changes you have made.
 
 ## Checklist
+
 - [ ] I have read the CONTRIBUTING guide and README
 - [ ] I have searched for existing pull requests related to this change.
 - [ ] My changes are focused and related to a single topic.

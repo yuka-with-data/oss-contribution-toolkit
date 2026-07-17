@@ -26,6 +26,7 @@ A concise summary (2–4 sentences).
 ### Missing information
 
 List any important details that appear to be missing, such as:
+
 - reproduction steps
 - environment/version
 - logs or screenshots

@@ -1,11 +1,14 @@
 # Common Pitfalls
+
 Even with a good understanding of open source workflows, contributors often run into similar issues.
 Most of these are normal learning moments, but being aware of them early can save time and reduce frustration.
 
 ## 1. Starting Before Understanding
+
 One of the most common mistakes is jumping into implementation too quickly.
 
 This often leads to:
+
 - Misaligned pull requests
 - Unnecessary revisions
 - Work that does not match project expectations
@@ -13,9 +16,11 @@ This often leads to:
 Taking time to understand the issue and context usually leads to better outcomes.
 
 ## 2. Making Large or Unfocused Changes
+
 Big pull requests are harder to review, test, and approve.
 
 Common problems include:
+
 - Mixing multiple changes in one PR
 - Including unrelated refactors
 - Trying to solve too many problems at once
@@ -23,9 +28,11 @@ Common problems include:
 Smaller, focused contributions are easier for everyone involved.
 
 ## 3. Ignoring Project Conventions
+
 Every project has its own structure and expectations.
 
 Failing to follow them can result in avoidable review delays, such as:
+
 - Style inconsistencies
 - Incorrect file structure
 - Missing tests or documentation updates
@@ -33,9 +40,11 @@ Failing to follow them can result in avoidable review delays, such as:
 Reading existing code and guidelines helps prevent this.
 
 ## 4. Over-Relying on Tools
+
 Modern tools, including AI assistants, can speed up development, but they can also introduce issues if used without through careful review.
 
 Typical risks include:
+
 - Using incorrect or hallucinated APIs
 - Submitting untested code
 - Missing subtle project-specific rules
@@ -43,16 +52,19 @@ Typical risks include:
 Tools should support understanding, not replace it.
 
 ## 5. Treating Review as a Final Step
-A pull request is not finished when it is opened (submitted). 
+
+A pull request is not finished when it is opened (submitted).
 
 Some contributors assume the work is complete once submitted, but most pull requests go through review feedback and CI checks before they are merged.
 
 Successful contributions usually involve iteration.
 
 ## 6. Not Asking Questions Early
+
 Many issues can be avoided by asking questions sooner.
 
 If something is unclear:
+
 - Ask in the issue
 - Clarify assumptions
 - Confirm expected behavior
@@ -60,6 +72,7 @@ If something is unclear:
 Early communication reduces rework later.
 
 ## 7. Forgetting the Human Side of OSS
+
 Open source is collaborative work between people.
 
 Delays, feedback, and differeing opinions are **normal**.

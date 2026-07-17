@@ -1,8 +1,10 @@
 # Open Source Contribution Playbook
+
 This playbook provides a practical introduction to contributing to open source projects.
 The guides are designed to be concise, beginner-friendly, and focused on real-world contribution workflows.
 
 ## Contents
+
 1. **Getting Started**:
 Learn the fundamentals of open source contributions and prepare your GitHub presence.
 
