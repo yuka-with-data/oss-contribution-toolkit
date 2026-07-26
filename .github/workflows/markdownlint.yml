@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
 
       - name: Run markdownlint-cli2
         uses: DavidAnson/markdownlint-cli2-action@v24.0.0
