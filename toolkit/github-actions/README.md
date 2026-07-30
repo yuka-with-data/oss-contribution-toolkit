@@ -16,7 +16,6 @@ This directory contains practical workflow setup guides that can be adapted for 
 - **[Pylint](pylint.md)**
   Learn how to set up a GitHub Actions workflow to analyze Python code with Pylint and catch common coding issues before merging changes.
 
-
 ## Related Resources
 
 - GitHub Actions Documentation: <https://docs.github.com/actions>
