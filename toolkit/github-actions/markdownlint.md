@@ -69,11 +69,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
 
-      - name: Run markdownlint-cli2
-        uses: DavidAnson/markdownlint-cli2-action@v24.0.0
+      - name: markdownlint-cli2-action
+        uses: DavidAnson/markdownlint-cli2-action@v24.1.0
         with:
           globs: |
             **/*.md
