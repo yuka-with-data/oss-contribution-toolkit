@@ -39,6 +39,10 @@ Example:
 }
 ```
 
+Before disabling any rules, review the official Markdownlint rule documentation to understand what each rule enforces and whether it makes sense for your project:
+
+[official Markdownlint rule documentation](https://github.com/DavidAnson/markdownlint/tree/main/doc)
+
 Only disable rules when there is a project-specific reason.
 
 ## 3. Create GitHub Actions Workflow
