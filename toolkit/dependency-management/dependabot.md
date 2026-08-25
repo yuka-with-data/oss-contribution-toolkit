@@ -6,7 +6,7 @@ Dependabot helps open source projects keep their dependencies up to date. It che
 
 It can also track dependencies used by GitHub Actions workflows.
 
-## 1. Create the Configulation File
+## 1. Create the Configuration File
 
 Create the following file in the repository:
 
@@ -33,19 +33,19 @@ updates:
       interval: "weekly"
 ```
 
-The configulation above checks for update to GitHub Actions and Python dependencies once a week. The `package-ecosystem` value tels Dependabot what type of dependencies to check.
+The configulation above checks for update to GitHub Actions and Python dependencies once a week. The `package-ecosystem` value tells Dependabot what type of dependencies to check.
 
 ## 3. Review Dependabot Pull Requests
 
-Once configured, Dependabot will periodically check for available udpates and create pull requests when appropriate.
+Once configured, Dependabot will periodically check for available updates and create pull requests when appropriate.
 
 Review these pull requests like any other contribution. Your project's CI workflows should run against the updates before merging.
 
 ### Recommend Practices
 
-- Keep dependencies resonably up to date
+- Keep dependencies reasonably up to date
 - Review Dependabot pull requests before merging
-- Use CI to test dependency updates before mering
+- Use CI to test dependency updates before merging
 - Configure Dependabot only for the ecosystems your project uses
 
 ## References
